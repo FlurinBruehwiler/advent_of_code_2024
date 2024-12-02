@@ -5,7 +5,10 @@
 			"path": ".",
 		},
 		{
-			"path": "C:\\Programming\\Github\\Odin\\core"
+			"path": "C:\\Programming\\Github\\Odin\\core",
+		},
+		{
+			"path": "\\\\wsl.localhost\\Ubuntu\\home\\flurin\\aoc"
 		},
 	],
 	"build_systems":
