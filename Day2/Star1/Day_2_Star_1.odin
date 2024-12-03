@@ -12,6 +12,7 @@ main :: proc() {
 	data, success := os.read_entire_file_from_filename("../day2.txt")
 
 	if !success {
+		fmt.println("Error reading file")
 		return
 	}
 
